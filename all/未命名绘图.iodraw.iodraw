@@ -43,6 +43,9 @@
         <mxCell id="Gommi6WqBLs1Q2OIm2Y0-14" value="问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="680" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Gommi6WqBLs1Q2OIm2Y0-16" value="相关上下文" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="690" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
