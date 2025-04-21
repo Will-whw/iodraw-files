@@ -73,6 +73,9 @@
             <mxPoint x="520" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5redrDRYgg9x_TsVEEST-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5redrDRYgg9x_TsVEEST-1" target="5redrDRYgg9x_TsVEEST-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
