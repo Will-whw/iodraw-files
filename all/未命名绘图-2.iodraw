@@ -295,11 +295,14 @@
             <mxPoint x="794" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BvfpNjMybVCJ4y3h0gS8-348" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;endWidth=14;endSize=5.69;" edge="1" parent="1">
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-348" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#00FF00;endWidth=14;endSize=5.69;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="934" y="2030" as="sourcePoint" />
             <mxPoint x="974" y="2030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-349" value="&lt;b&gt;D-RDP1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1990" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
