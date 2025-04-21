@@ -98,16 +98,16 @@
           <mxGeometry x="960" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-34" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;服务器环境搭&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;建与配置&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="135" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-35" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;系统部署&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="195" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;上线前准备工作检查&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;系统上线&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="980" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="980" y="315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="40" width="160" height="410" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry x="1120" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-42" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;验收文档整理与提交&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="135" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-43" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;项目验收申请&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="195" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;项目验收评审&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="255" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;系统上线&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="315" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="40" width="160" height="410" as="geometry" />
