@@ -133,8 +133,8 @@
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-101" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;区 县&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="1000" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BvfpNjMybVCJ4y3h0gS8-104" value="&lt;b&gt;&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 16px;&quot;&gt;AS 65000&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="879" y="730" width="90" height="30" as="geometry" />
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-104" value="&lt;b&gt;&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 18px;&quot;&gt;AS 65000&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="715" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
