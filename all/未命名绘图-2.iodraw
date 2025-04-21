@@ -298,6 +298,12 @@
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-444" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;同一地市下行流量&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1605" y="2070" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-445" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#007FFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1623.75" y="1500" as="sourcePoint" />
+            <mxPoint x="1666.25" y="1580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
