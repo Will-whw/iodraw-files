@@ -97,6 +97,12 @@
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-216" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;×&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="682" y="810" width="40" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-217" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="713" y="885" as="sourcePoint" />
+            <mxPoint x="933" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
