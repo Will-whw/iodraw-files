@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-33" value="" style="shape=mxgraph.cisco.misc.mcu;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="305.63" y="160" width="43.75" height="50" as="geometry" />
+          <mxGeometry x="305.63" y="157" width="43.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
