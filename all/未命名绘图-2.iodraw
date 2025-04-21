@@ -285,30 +285,30 @@
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-346" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;endWidth=14;endSize=5.69;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="2030" as="sourcePoint" />
-            <mxPoint x="570" y="2030" as="targetPoint" />
+            <mxPoint x="565" y="2025" as="sourcePoint" />
+            <mxPoint x="605" y="2025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-347" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#007FFF;endWidth=14;endSize=5.69;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="2030" as="sourcePoint" />
-            <mxPoint x="700" y="2030" as="targetPoint" />
+            <mxPoint x="695" y="2025" as="sourcePoint" />
+            <mxPoint x="735" y="2025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-348" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#00FF00;endWidth=14;endSize=5.69;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="850" y="2030" as="sourcePoint" />
-            <mxPoint x="890" y="2030" as="targetPoint" />
+            <mxPoint x="885" y="2025" as="sourcePoint" />
+            <mxPoint x="925" y="2025" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-349" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;上行流量&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2015" width="80" height="30" as="geometry" />
+          <mxGeometry x="605" y="2010" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-350" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;不同地市下行流量&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="2015" width="140" height="30" as="geometry" />
+          <mxGeometry x="735" y="2010" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-351" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;同一地市下行流量&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="2015" width="140" height="30" as="geometry" />
+          <mxGeometry x="925" y="2010" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
