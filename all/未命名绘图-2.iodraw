@@ -235,22 +235,10 @@
             <mxPoint x="764" y="1774" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BvfpNjMybVCJ4y3h0gS8-335" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="793" y="1630" as="sourcePoint" />
-            <mxPoint x="715" y="1650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-337" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="1720" as="sourcePoint" />
             <mxPoint x="796" y="1655" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BvfpNjMybVCJ4y3h0gS8-338" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="763" y="1754" as="sourcePoint" />
-            <mxPoint x="707.63" y="1774" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-339" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#007FFF;" edge="1" parent="1">
