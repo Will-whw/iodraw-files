@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wywiypUzhLEI7JnlgQod-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: var(--md-box-samantha-normal-text-color); font-size: var(--md-box-samantha-normal-text-font-size);&quot;&gt;&lt;b&gt;项目启动会议&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: var(--md-box-samantha-normal-text-color); font-size: var(--md-box-samantha-normal-text-font-size);&quot;&gt;&lt;b&gt;组织与召开&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
