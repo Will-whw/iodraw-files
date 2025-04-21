@@ -244,8 +244,11 @@
         <mxCell id="BvfpNjMybVCJ4y3h0gS8-51" value="&lt;b&gt;C-MCU1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="288.13" y="325" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BvfpNjMybVCJ4y3h0gS8-52" value="&lt;b&gt;C-MCU1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="298.13" y="335" width="70" height="30" as="geometry" />
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-52" value="&lt;b&gt;D-RDP1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-53" value="&lt;b&gt;D-RDP1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="520" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
