@@ -193,8 +193,8 @@
             <mxPoint x="437" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BvfpNjMybVCJ4y3h0gS8-33" value="" style="shape=mxgraph.cisco.misc.mcu;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="270" width="56" height="64" as="geometry" />
+        <mxCell id="BvfpNjMybVCJ4y3h0gS8-33" value="" style="shape=mxgraph.cisco.misc.mcu;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="334" y="20" width="43.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
