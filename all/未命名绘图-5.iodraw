@@ -50,7 +50,7 @@
           <mxGeometry x="1810" y="585" width="540" height="110" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-31" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;禁止IDMZ主动方向访问FAB&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="735" width="520" height="60" as="geometry" />
+          <mxGeometry x="1820" y="700" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
