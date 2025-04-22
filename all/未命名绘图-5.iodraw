@@ -377,7 +377,10 @@
           <mxGeometry x="514" y="415" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;FAB Core&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="528" y="530" width="90" height="30" as="geometry" />
+          <mxGeometry x="518" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;FAB Firewall&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="524" y="425" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
