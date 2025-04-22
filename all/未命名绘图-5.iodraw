@@ -7,7 +7,7 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;终端设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OD-OX0rg1FhAyizWPZ1q-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;判断设备&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是否为FAB机床&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="140" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
