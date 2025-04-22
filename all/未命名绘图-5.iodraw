@@ -407,6 +407,24 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-12" value="&lt;font color=&quot;#ff8000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;禁止外部网络直接&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff8000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;访问FAB区域&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="674" y="550" width="420" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;rotation=-180;fillColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="253" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;rotation=90;fillColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="253" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.47;dx=45.47;rotation=-90;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="249.75" y="408.81" width="532.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-16" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 200px;&quot;&gt;×&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="446" y="315" width="140" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-17" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;禁止外部网络直接&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;访问FAB区域&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="564" y="380" width="420" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-18" value="&lt;font color=&quot;#ff8000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;禁止外部网络直接&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff8000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;访问FAB区域&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684" y="560" width="420" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
