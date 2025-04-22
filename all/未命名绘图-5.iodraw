@@ -405,7 +405,10 @@
           <mxGeometry x="1316.5" y="140" width="57" height="49.53" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-212" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1452" y="795" width="57" height="49.53" as="geometry" />
+          <mxGeometry x="1314" y="240" width="57" height="49.53" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-213" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1462" y="805" width="57" height="49.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
