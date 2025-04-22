@@ -374,7 +374,7 @@
           <mxGeometry x="50" y="500" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KkRwn_9TacqZUfU0_GLs-143" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;FAB Firewall&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="780" y="533" width="140" height="40" as="geometry" />
+          <mxGeometry x="728" y="550" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
