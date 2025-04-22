@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KkRwn_9TacqZUfU0_GLs-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="579" y="260" width="511" height="247" as="geometry" />
+        </mxCell>
         <mxCell id="KkRwn_9TacqZUfU0_GLs-133" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-90" y="307" width="380" height="243" as="geometry" />
         </mxCell>
@@ -348,9 +351,6 @@
         </mxCell>
         <mxCell id="KkRwn_9TacqZUfU0_GLs-129" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data acquisition front machine&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="399.53" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KkRwn_9TacqZUfU0_GLs-134" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="579" y="260" width="380" height="247" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
