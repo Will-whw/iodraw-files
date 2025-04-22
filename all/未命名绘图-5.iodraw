@@ -43,8 +43,8 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-18" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;OA区域特定服务器&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;通过指定端口访问IDMZ&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1830" y="148.5" width="550" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OD-OX0rg1FhAyizWPZ1q-29" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Internet通过安全VPN通道或特定代理，以受限权限访问IDMZ&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="860" width="1380" height="70" as="geometry" />
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-29" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Internet通过安全VPN通道或特定代理&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;以受限权限访问IDMZ&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1555" y="830" width="860" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
