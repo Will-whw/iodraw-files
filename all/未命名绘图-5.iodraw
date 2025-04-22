@@ -390,7 +390,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-206" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
-          <mxGeometry x="1620" y="510" width="100" height="95" as="geometry" />
+          <mxGeometry x="2143" y="650" width="57" height="49.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
