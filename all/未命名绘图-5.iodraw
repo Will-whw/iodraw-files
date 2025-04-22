@@ -103,6 +103,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;接入允许&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="530" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
