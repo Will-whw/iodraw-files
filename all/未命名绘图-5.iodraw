@@ -46,6 +46,9 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-39" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;① 生产机台主动发送数据&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2450" y="555" width="470" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-40" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;① 生产机台主动发送数据&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="320" width="470" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
