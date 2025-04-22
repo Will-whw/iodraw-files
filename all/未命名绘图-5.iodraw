@@ -99,13 +99,6 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-78" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;流量分析系统&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;监测到安全隐患&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="620" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OD-OX0rg1FhAyizWPZ1q-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OD-OX0rg1FhAyizWPZ1q-62" target="OD-OX0rg1FhAyizWPZ1q-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="455" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;隔离主机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="120" height="50" as="geometry" />
         </mxCell>
