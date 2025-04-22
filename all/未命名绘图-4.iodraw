@@ -373,6 +373,9 @@
         <mxCell id="KkRwn_9TacqZUfU0_GLs-142" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;IDMZ&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="500" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KkRwn_9TacqZUfU0_GLs-143" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="538" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
