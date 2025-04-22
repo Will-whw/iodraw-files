@@ -401,6 +401,9 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-10" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 200px;&quot;&gt;×&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="436" y="305" width="140" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-11" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;禁止直接访问&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="777" y="590" width="320" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
