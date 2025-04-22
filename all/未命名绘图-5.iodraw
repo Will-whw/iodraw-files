@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="X9im1TgMc6uB6SY3moZz">
-    <mxGraphModel dx="341" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-324" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,22 +26,22 @@
           <mxGeometry x="2359" y="148.5" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;rotation=-180;fillColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="2870" y="170" width="253" height="260" as="geometry" />
+          <mxGeometry x="2190" y="205" width="253" height="260" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;rotation=90;fillColor=#007FFF;" vertex="1" parent="1">
-          <mxGeometry x="2870" y="430" width="253" height="260" as="geometry" />
+          <mxGeometry x="2190" y="465" width="253" height="260" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.47;dx=45.47;rotation=-90;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2919.75" y="398.80999999999995" width="532.5" height="60" as="geometry" />
+          <mxGeometry x="2239.75" y="433.80999999999995" width="532.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-16" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 200px;&quot;&gt;×&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3116" y="305" width="140" height="250" as="geometry" />
+          <mxGeometry x="2436" y="340" width="140" height="250" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-17" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;禁止外部网络直接&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;访问FAB区域&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3234" y="370" width="420" height="130" as="geometry" />
+          <mxGeometry x="2554" y="405" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-18" value="&lt;font color=&quot;#ff8000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;禁止外部网络直接&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff8000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 50px;&quot;&gt;访问FAB区域&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3354" y="550" width="420" height="130" as="geometry" />
+          <mxGeometry x="2674" y="585" width="420" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
