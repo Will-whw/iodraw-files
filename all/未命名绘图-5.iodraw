@@ -49,8 +49,8 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-40" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font color=&quot;#007fff&quot;&gt;② 外部网络访问IDMZ请求数据&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2450" y="320" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OD-OX0rg1FhAyizWPZ1q-41" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;③IDMZ返回数据&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="230" width="320" height="60" as="geometry" />
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-41" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font color=&quot;#00cc00&quot;&gt;③ IDMZ返回数据&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2025" y="280" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
