@@ -422,6 +422,12 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-217" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1937.5" y="722.47" width="57" height="49.53" as="geometry" />
         </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-218" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="2143" y="320" width="57" height="49.53" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-219" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1324" y="250" width="57" height="49.53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
