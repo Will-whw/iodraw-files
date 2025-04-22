@@ -398,8 +398,8 @@
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.47;dx=45.47;rotation=-90;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="239.75" y="398.81" width="532.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OD-OX0rg1FhAyizWPZ1q-10" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 150px;&quot;&gt;×&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="451" y="335" width="110" height="190" as="geometry" />
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-10" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 200px;&quot;&gt;×&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="436" y="305" width="140" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
