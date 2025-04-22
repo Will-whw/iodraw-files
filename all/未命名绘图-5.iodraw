@@ -106,8 +106,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OD-OX0rg1FhAyizWPZ1q-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;接入允许&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-81" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;隔离主机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-83" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
