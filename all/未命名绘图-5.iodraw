@@ -390,7 +390,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendDoubleArrow;dy=15;dx=38;arrowHead=55;rounded=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="910" y="570" width="253" height="260" as="geometry" />
+          <mxGeometry x="235.5" y="150" width="253" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
