@@ -393,7 +393,10 @@
           <mxGeometry x="1272" y="755" width="57" height="49.53" as="geometry" />
         </mxCell>
         <mxCell id="OD-OX0rg1FhAyizWPZ1q-207" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="1282" y="765" width="57" height="49.53" as="geometry" />
+          <mxGeometry x="1412" y="755" width="57" height="49.53" as="geometry" />
+        </mxCell>
+        <mxCell id="OD-OX0rg1FhAyizWPZ1q-208" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1681" y="722" width="57" height="49.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
