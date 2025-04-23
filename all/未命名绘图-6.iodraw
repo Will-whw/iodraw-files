@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2355" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2207" y="1450" width="274" height="150" as="geometry" />
+          <mxGeometry x="2207" y="1440" width="483" height="180" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2204" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l3_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="2421" y="1741.94" width="50" height="50" as="geometry" />
@@ -270,6 +270,9 @@
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2354" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 24px;&quot;&gt;备路由&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2538.75" y="1525" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2356" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 24px;&quot;&gt;备路由&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2548.75" y="1535" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
