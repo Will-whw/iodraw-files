@@ -205,24 +205,6 @@
             <mxPoint x="2430" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-2318" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2546.5" y="1640" as="sourcePoint" />
-            <mxPoint x="2476.5" y="1640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-2319" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2700" y="1730" as="sourcePoint" />
-            <mxPoint x="2620" y="1661.94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-2320" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2620" y="1909.97" as="sourcePoint" />
-            <mxPoint x="2690" y="1801.94" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2321" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2481" y="1930.76" as="sourcePoint" />
@@ -306,7 +288,7 @@
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2341" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2640" y="1991.94" as="sourcePoint" />
+            <mxPoint x="2630" y="2000" as="sourcePoint" />
             <mxPoint x="2700" y="1891.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
