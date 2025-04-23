@@ -256,8 +256,11 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2327" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;shape=link;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2434.25" y="2070" as="sourcePoint" />
-            <mxPoint x="2477.75" y="2070" as="targetPoint" />
+            <mxPoint x="2470" y="2070" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2328" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 50px;&quot;&gt;×&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2372.5" y="1881.94" width="50" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
