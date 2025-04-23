@@ -448,8 +448,8 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-390" value="Historian" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="473.5" y="710" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-391" value="NTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540.5" y="710" width="50" height="30" as="geometry" />
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-391" value="Data&lt;div&gt;Proxy&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540.5" y="705" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
