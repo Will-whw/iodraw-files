@@ -4,20 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2504" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2497" target="GWejLSn5neXfz9Ty5LEl-2498">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2497" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择堆叠设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2505" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2498" target="GWejLSn5neXfz9Ty5LEl-2499">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2498" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;连接堆叠设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2506" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2499" target="GWejLSn5neXfz9Ty5LEl-2500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2499" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;角色分配&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2507" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2500" target="GWejLSn5neXfz9Ty5LEl-2501">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2500" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;堆叠ID 分配&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2508" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2501" target="GWejLSn5neXfz9Ty5LEl-2502">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2501" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;堆叠优先级分配&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2509" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2502" target="GWejLSn5neXfz9Ty5LEl-2503">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2502" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;同步软件版本&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;和配置文件&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="120" height="40" as="geometry" />
