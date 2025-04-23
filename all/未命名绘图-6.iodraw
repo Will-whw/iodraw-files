@@ -965,16 +965,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-799" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#005073;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
-          <mxGeometry x="1243.25" y="1210" width="50" height="50" as="geometry" />
+          <mxGeometry x="1240" y="1169" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-800" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#005073;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
-          <mxGeometry x="1243.25" y="1270" width="50" height="50" as="geometry" />
+          <mxGeometry x="1240" y="1229" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-801" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=wireless_lan_controller;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="1390" width="50" height="39.06" as="geometry" />
+          <mxGeometry x="1237.75" y="1349" width="50" height="39.06" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-802" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=wireless_lan_controller;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="1440" width="50" height="39.06" as="geometry" />
+          <mxGeometry x="1237.75" y="1399" width="50" height="39.06" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-805" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-786" target="GWejLSn5neXfz9Ty5LEl-801">
           <mxGeometry relative="1" as="geometry" />
@@ -986,7 +986,7 @@
           <mxGeometry x="980" y="1110" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-809" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#005073;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_thing_plc;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="1330" width="50" height="50" as="geometry" />
+          <mxGeometry x="1237.75" y="1289" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
