@@ -409,8 +409,8 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-377" value="Patch&lt;div&gt;Management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="463.5" y="595" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-378" value="OA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545.5" y="600" width="40" height="30" as="geometry" />
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-378" value="Patch&lt;div&gt;Management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520.5" y="595" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-379" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="650" width="180" height="90" as="geometry" />
