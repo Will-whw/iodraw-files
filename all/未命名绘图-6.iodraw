@@ -136,7 +136,7 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2255" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Control Core&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2391.5" y="1548" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-2256" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2252" target="GWejLSn5neXfz9Ty5LEl-2205">
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2256" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;shape=link;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2252" target="GWejLSn5neXfz9Ty5LEl-2205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2253" target="GWejLSn5neXfz9Ty5LEl-2205">
@@ -234,8 +234,8 @@
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2322" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2270" y="1910" as="sourcePoint" />
-            <mxPoint x="2200" y="1805.97" as="targetPoint" />
+            <mxPoint x="2280" y="1920" as="sourcePoint" />
+            <mxPoint x="2200" y="1804.93" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
