@@ -37,7 +37,7 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2520" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2521" target="GWejLSn5neXfz9Ty5LEl-2512">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-2521" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;FAB设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2521" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;802.1X设备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2522" value="接入请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
