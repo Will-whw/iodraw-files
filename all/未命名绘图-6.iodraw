@@ -22,8 +22,11 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-2445" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2441" target="GWejLSn5neXfz9Ty5LEl-2442">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-2446" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;width=18.235294117647058;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2441" target="GWejLSn5neXfz9Ty5LEl-2442">
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2446" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;width=14.705882352941178;" edge="1" parent="1" source="GWejLSn5neXfz9Ty5LEl-2441" target="GWejLSn5neXfz9Ty5LEl-2442">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-2447" value="" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
