@@ -245,7 +245,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-1299" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="1320" width="430" height="270" as="geometry" />
+          <mxGeometry x="2990" y="1320" width="260" height="230" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-1307" value="&lt;b&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px;&quot;&gt;无&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px;&quot;&gt;线&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px;&quot;&gt;设&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px;&quot;&gt;备&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px;&quot;&gt;区&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3060" y="1325" width="130" height="40" as="geometry" />
