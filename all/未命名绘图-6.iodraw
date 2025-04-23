@@ -160,8 +160,8 @@
         <mxCell id="GWejLSn5neXfz9Ty5LEl-1823" value="&lt;b&gt;&lt;font color=&quot;#82b366&quot; style=&quot;font-size: 22px;&quot;&gt;无线设备区1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="741" y="980" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GWejLSn5neXfz9Ty5LEl-1824" value="&lt;b&gt;&lt;font color=&quot;#d79b00&quot; style=&quot;font-size: 22px;&quot;&gt;电解车间&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="890" y="980" width="110" height="40" as="geometry" />
+        <mxCell id="GWejLSn5neXfz9Ty5LEl-1824" value="&lt;b&gt;&lt;font color=&quot;#d79b00&quot; style=&quot;font-size: 22px;&quot;&gt;流程2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905" y="980" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GWejLSn5neXfz9Ty5LEl-1825" value="&lt;b&gt;&lt;font color=&quot;#d6b656&quot; style=&quot;font-size: 22px;&quot;&gt;清洗车间&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="1070" width="110" height="40" as="geometry" />
