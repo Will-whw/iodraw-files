@@ -265,6 +265,9 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-4247" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;业务A流量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3600" y="2720" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4248" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;其他业务流量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3795" y="2720" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
