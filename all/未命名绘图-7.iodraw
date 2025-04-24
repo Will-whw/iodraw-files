@@ -160,54 +160,6 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-4233" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NpUCju4lSaYIv4EK_Q6s-4229" target="NpUCju4lSaYIv4EK_Q6s-4180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4239" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3430" y="2502.8" as="sourcePoint" />
-            <mxPoint x="3515" y="2502.4" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4245" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3570" y="2720.4" as="sourcePoint" />
-            <mxPoint x="3625" y="2720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4246" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#0000FF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3805" y="2720.4" as="sourcePoint" />
-            <mxPoint x="3860" y="2720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4247" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;核心业务流量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3624" y="2700" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4248" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;其他业务流量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3855" y="2700" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4251" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3994" y="2502.42" as="sourcePoint" />
-            <mxPoint x="4079" y="2502.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4252" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3555" y="2502.42" as="sourcePoint" />
-            <mxPoint x="3640" y="2502.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4254" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3690" y="2502.02" as="sourcePoint" />
-            <mxPoint x="3930" y="2502.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4257" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4095" y="2502.42" as="sourcePoint" />
-            <mxPoint x="4180" y="2502.02" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
