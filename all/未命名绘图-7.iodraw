@@ -151,7 +151,7 @@
           <mxGeometry x="3089" y="489" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-242" value="&lt;font color=&quot;#b85450&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;HSRP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2955" y="253.53" width="70" height="40" as="geometry" />
+          <mxGeometry x="2954" y="253.53" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
