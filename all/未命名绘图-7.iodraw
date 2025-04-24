@@ -153,8 +153,8 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-3198" value="&lt;b&gt;&lt;font color=&quot;#0e8088&quot; style=&quot;font-size: 24px;&quot;&gt;电信专线&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2768.16" y="2500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-3227" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="2510" y="1970" width="821.81" height="770.77" as="geometry" />
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-3227" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=#666666;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="1970" width="700" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
