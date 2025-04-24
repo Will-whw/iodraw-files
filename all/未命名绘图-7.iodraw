@@ -278,7 +278,7 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-169" value="&lt;font color=&quot;#6c8ebf&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;区域核心A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1631" y="260" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-170" value="&lt;font color=&quot;#6c8ebf&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;区域核心B&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-170" value="&lt;font color=&quot;#82b366&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;区域核心B&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2233" y="260" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
