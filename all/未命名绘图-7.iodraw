@@ -1543,12 +1543,6 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1420" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="3982.5" y="482.47" width="20" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1450" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4787.3" y="522.0400000000001" as="sourcePoint" />
-            <mxPoint x="4275" y="800.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1421" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l3_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
           <mxGeometry x="4749" y="461.47" width="50" height="50" as="geometry" />
         </mxCell>
@@ -1599,12 +1593,6 @@
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1439" value="&lt;b&gt;&lt;font color=&quot;#0e8088&quot; style=&quot;font-size: 24px;&quot;&gt;电信专线&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4175" y="1000" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1445" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.985;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.76;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NpUCju4lSaYIv4EK_Q6s-1422" target="NpUCju4lSaYIv4EK_Q6s-1440">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1448" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.985;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.739;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NpUCju4lSaYIv4EK_Q6s-1421" target="NpUCju4lSaYIv4EK_Q6s-1440">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1438" value="" style="html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;gradientDirection=north;strokeWidth=5;shape=mxgraph.networks.cloud;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="4441" y="970" width="126" height="70" as="geometry" />
