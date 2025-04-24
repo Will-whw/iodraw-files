@@ -195,8 +195,8 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-431" value="Leaf-A-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1708" y="474" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-432" value="Leaf-A-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1618" y="474" width="70" height="30" as="geometry" />
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-432" value="Border-A-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1613" y="474" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-433" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1687.5" y="451" width="20" height="8" as="geometry" />
