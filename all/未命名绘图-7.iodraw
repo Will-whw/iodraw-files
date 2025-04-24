@@ -50,10 +50,10 @@
           <mxGeometry x="5.469999999999999" y="3.1300000000000026" width="24.06" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-337" value="Spine-A-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1795.5" y="540" width="80" height="30" as="geometry" />
+          <mxGeometry x="1618" y="597" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-338" value="Spine-A-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1883" y="540" width="80" height="30" as="geometry" />
+          <mxGeometry x="1705.5" y="597" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-341" value="Leaf-A-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1619" y="734" width="70" height="30" as="geometry" />
