@@ -150,8 +150,8 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-239" value="SW-A-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3089" y="489" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-241" value="FW-A-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3030" y="296" width="60" height="30" as="geometry" />
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-242" value="&lt;font size=&quot;1&quot; color=&quot;#6c8ebf&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;HSRP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2947.5" y="254" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
