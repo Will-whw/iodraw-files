@@ -1576,7 +1576,7 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1435" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NpUCju4lSaYIv4EK_Q6s-1421" target="NpUCju4lSaYIv4EK_Q6s-1218">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1437" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1437" value="" style="html=1;outlineConnect=0;fillColor=none;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=5;shape=mxgraph.networks.cloud;fontColor=#ffffff;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="4300" y="650" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
