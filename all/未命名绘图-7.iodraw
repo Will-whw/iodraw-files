@@ -190,12 +190,6 @@
             <mxPoint x="3515" y="2502.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-4242" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#0000FF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3415" y="2557.27" as="sourcePoint" />
-            <mxPoint x="3510" y="2640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-4243" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3994" y="2657.67" as="sourcePoint" />
@@ -221,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-4247" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;核心业务流量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3610" y="2700" width="170" height="40" as="geometry" />
+          <mxGeometry x="3624" y="2700" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-4248" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;其他业务流量&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3855" y="2700" width="170" height="40" as="geometry" />
