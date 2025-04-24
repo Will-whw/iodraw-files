@@ -1585,6 +1585,9 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1439" value="&lt;b&gt;&lt;font color=&quot;#0e8088&quot; style=&quot;font-size: 24px;&quot;&gt;电信专线&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4186" y="814.53" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1440" value="&lt;b&gt;&lt;font color=&quot;#0e8088&quot; style=&quot;font-size: 24px;&quot;&gt;电信专线&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4452" y="814.53" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
