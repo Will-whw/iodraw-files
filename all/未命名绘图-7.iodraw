@@ -142,7 +142,7 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-1565" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;DCI骨干网&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5340" y="91.27000000000004" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1568" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-1568" value="" style="html=1;outlineConnect=0;fillColor=#cce5ff;strokeColor=#36393d;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="5286" y="420" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
