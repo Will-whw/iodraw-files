@@ -339,7 +339,7 @@
           <mxGeometry x="1570" y="210" width="950" height="480" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-191" value="Spine-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2481" width="60" height="30" as="geometry" />
+          <mxGeometry x="2421" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
