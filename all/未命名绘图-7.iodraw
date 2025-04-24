@@ -256,8 +256,8 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-668" value="&lt;b&gt;&lt;font color=&quot;#6c8ebf&quot; style=&quot;font-size: 20px;&quot;&gt;区域核心&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2150.5" y="128" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-672" value="&lt;b&gt;&lt;font color=&quot;#6c8ebf&quot; style=&quot;font-size: 20px;&quot;&gt;区域核心&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2042" y="370" width="100" height="40" as="geometry" />
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-672" value="&lt;b&gt;&lt;font color=&quot;#6c8ebf&quot; style=&quot;font-size: 20px;&quot;&gt;BGP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2057" y="370" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
