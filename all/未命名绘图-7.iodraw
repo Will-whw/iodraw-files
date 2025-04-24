@@ -323,14 +323,14 @@
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-184" value="SW-A-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1900" y="555" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NpUCju4lSaYIv4EK_Q6s-185" value="SW-A-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1646" y="565" width="70" height="30" as="geometry" />
+        <mxCell id="NpUCju4lSaYIv4EK_Q6s-185" value="SW-B-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2028" y="555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-186" value="SW-A-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1776.5" y="565" width="70" height="30" as="geometry" />
+          <mxGeometry x="2158.5" y="555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NpUCju4lSaYIv4EK_Q6s-187" value="SW-A-3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="565" width="70" height="30" as="geometry" />
+          <mxGeometry x="2292" y="555" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
