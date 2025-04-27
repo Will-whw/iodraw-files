@@ -278,7 +278,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wkBkz-KO6dW5Vjiamx4L-82" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;×&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1430" width="40" height="50" as="geometry" />
+          <mxGeometry x="1889" y="1455" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkBkz-KO6dW5Vjiamx4L-83" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;×&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1994" y="1455" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wkBkz-KO6dW5Vjiamx4L-84" value="&lt;font size=&quot;1&quot; color=&quot;#ff0000&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;×&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1242" y="1655" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
