@@ -348,7 +348,7 @@
             <mxPoint x="1648.56" y="1314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I0h5m9tiGLwIy7vshLMD-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#00FF00;" edge="1" parent="1">
+        <mxCell id="I0h5m9tiGLwIy7vshLMD-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1698.56" y="1531" as="sourcePoint" />
             <mxPoint x="1764.37" y="1531" as="targetPoint" />
@@ -359,6 +359,9 @@
             <mxPoint x="1698.56" y="1590" as="sourcePoint" />
             <mxPoint x="1764.37" y="1590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I0h5m9tiGLwIy7vshLMD-99" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;互联网用户&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1480.0000000000002" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
