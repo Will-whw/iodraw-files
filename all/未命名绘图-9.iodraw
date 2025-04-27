@@ -234,7 +234,7 @@
           <mxGeometry x="1352.5" y="1330" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I0h5m9tiGLwIy7vshLMD-69" value="&lt;b&gt;&lt;font color=&quot;#d79b00&quot; style=&quot;font-size: 20px;&quot;&gt;HSRP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1489.5" y="1515" width="80" height="40" as="geometry" />
+          <mxGeometry x="1501.5" y="1630" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I0h5m9tiGLwIy7vshLMD-70" value="&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;互联网区域&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1349.5" y="1270" width="140" height="40" as="geometry" />
